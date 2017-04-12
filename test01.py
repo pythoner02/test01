@@ -4,6 +4,7 @@
 
 def main():
     print 'Hello world'
+    print 'second commit'
 
 if __name__ == "__main__":
     main()
